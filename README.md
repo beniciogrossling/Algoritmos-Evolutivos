@@ -8,4 +8,5 @@ Las restriciones propuestas son:
 3. La carga maxima del drone se limito a 5.
 
 Las pruebas se realizaron con Los Benchmarks VRPTW de Solomon, del cual se seleccionó el R101, http://web.cba.neu.edu/~msolomon/problems.htm
+
 Para las adaptaciones de los codigos se tomaron como base el algoritmo propuesto por https://github.com/iRB-Lab/py-ga-VRPTW/
